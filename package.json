@@ -13,7 +13,6 @@
   "dependencies": {
     "codename": "^0.0.6",
     "express": "^5.1.0",
-    "nodemon": "^3.1.10",
     "sillyname": "^0.1.0",
     "superheroes": "^4.0.0"
   }
